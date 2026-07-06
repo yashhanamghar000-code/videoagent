@@ -5,3 +5,7 @@ __pycache__/
 *.pyc
 .env
 chroma.sqlite3
+venv/
+.venv/
+__pycache__/
+*.pyc
