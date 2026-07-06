@@ -1,0 +1,7 @@
+venv/
+downloades/
+vector_db/
+__pycache__/
+*.pyc
+.env
+chroma.sqlite3
